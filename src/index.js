@@ -1,2 +1,4 @@
 import "./style.css";
-console.log("Yo");
+
+const hiL = 2;
+console.log(hiL);
